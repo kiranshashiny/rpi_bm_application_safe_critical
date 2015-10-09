@@ -1,5 +1,4 @@
 
-
 Turning LED on and OFF based on simulated temperature received from the Raspberry Pi.
 ====================================================================================
 Code for both Device and Application is stored here.
@@ -19,6 +18,9 @@ Device is configured to Pin 11 - to turn a LED on / off.
 e.g: C code =  pinMode(PIN11,OUTPUT);
 
 
-Application code is in JS.
+Application code is in Node.js. <br>
 Device code is in C.
 
+Snapshot showing that Bluemix IoT application is receving data.
+
+![alt text](screenshots/Selection_899.jpg " Device Data received on Bluemix IoT Application Dashboard")
