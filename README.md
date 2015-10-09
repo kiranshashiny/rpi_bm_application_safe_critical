@@ -23,4 +23,4 @@ Device code is in C.
 
 Snapshot showing that Bluemix IoT application is receving data.
 
-![alt text](screenshots/Selection_899.jpg " Device Data received on Bluemix IoT Application Dashboard")
+![My image](https://kiranshashiny.github.com/screenshots/Selection_899.jpg " Device Data received on Bluemix IoT Application Dashboard")
